@@ -20,8 +20,8 @@ A aplicação possui apenas 3 telas (Home, Login e Cadastro). Para acessar a apl
 o gerenciador de pacotes [npm](https://www.npmjs.com/) na sua versão `8.19.2` ou superior.
 
 Tratando se de uma aplicação utilizando uma api de terceiros, é necessário que você tenha uma conta registrada no 
-[spotify](https://www.spotify.com/br-pt/signup?forward_url=https%3A%2F%2Fopen.spotify.com%2F) para que seja
-feita a autenticação e permissão de uso. Estarei disponibilizando uma conta criada apenas para acesso caso não tenha uma conta.
+[spotify developers](https://developer.spotify.com/) para que seja feita a autenticação e permissão de uso. 
+Estarei disponibilizando uma conta criada apenas para acesso.
 
 ```
     conta: kayqueg.silva@uni9.edu.br

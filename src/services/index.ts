@@ -1,8 +1,8 @@
 import axios from "axios";
 import { Buffer } from "buffer";
 
-const clientId: string = '4dcbc7c637a14a8099e97c4195058a1c'
-const clientSecret: string = 'b9ff935341fb4f789612f09fefa99a12'
+const clientId: string = 'd93203dab933473f85121f9ffa16ace8'
+const clientSecret: string = 'dec43740c736452a82bc1042dc597161'
 const authToken: string = Buffer.from(`${clientId}:${clientSecret}`, 'utf-8').toString('base64')
 const authApiUrl: string = 'https://accounts.spotify.com/api/'
 const authEndpoint: string = 'https://accounts.spotify.com/authorize?'
