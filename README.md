@@ -23,9 +23,9 @@ Tratando se de uma aplicação utilizando uma api de terceiros, é necessário q
 [spotify](https://www.spotify.com/br-pt/signup?forward_url=https%3A%2F%2Fopen.spotify.com%2F) para que seja
 feita a autenticação e permissão de uso. Estarei disponibilizando uma conta criada apenas para acesso caso não tenha uma conta.
 
-```agsl
-    conta: 
-    senha:
+```
+    conta: kayqueg.silva@uni9.edu.br
+    senha: SharedAcc4637!
 ```
 
 ### Técnologias utilizadas
